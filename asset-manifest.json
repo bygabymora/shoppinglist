@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bugabymora/.github.io/shoppinglist/static/css/main.0fac2f90.css",
-    "main.js": "/bugabymora/.github.io/shoppinglist/static/js/main.bf49bd94.js",
+    "main.js": "/bugabymora/.github.io/shoppinglist/static/js/main.fe19b529.js",
     "index.html": "/bugabymora/.github.io/shoppinglist/index.html",
     "main.0fac2f90.css.map": "/bugabymora/.github.io/shoppinglist/static/css/main.0fac2f90.css.map",
-    "main.bf49bd94.js.map": "/bugabymora/.github.io/shoppinglist/static/js/main.bf49bd94.js.map"
+    "main.fe19b529.js.map": "/bugabymora/.github.io/shoppinglist/static/js/main.fe19b529.js.map"
   },
   "entrypoints": [
     "static/css/main.0fac2f90.css",
-    "static/js/main.bf49bd94.js"
+    "static/js/main.fe19b529.js"
   ]
 }
